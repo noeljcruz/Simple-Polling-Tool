@@ -1,0 +1,16 @@
+{
+    "questions": [
+        {
+            "name": "classname1",
+            "votes": 0
+        },
+        {
+            "name": "classname2",
+            "votes": 0
+        },
+        {
+            "name": "classname3",
+            "votes": 0
+        }
+    ]
+}
